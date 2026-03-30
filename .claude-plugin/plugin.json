@@ -1,0 +1,12 @@
+{
+  "name": "cpp-safety",
+  "version": "1.0.0",
+  "description": "C/C++ memory safety and security checks - smart pointers, safe string functions",
+  "author": {
+    "name": "Matt Hesketh",
+    "email": "matt@heskethwebdesign.co.uk"
+  },
+  "repository": "https://github.com/wrxck/cpp-safety",
+  "license": "MIT",
+  "keywords": ["cpp", "c", "memory-safety", "smart-pointers", "security", "buffer-overflow"]
+}
