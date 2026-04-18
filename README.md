@@ -1,5 +1,7 @@
 # cpp-safety
 
+[![CI](https://github.com/wrxck/cpp-safety/actions/workflows/ci.yml/badge.svg)](https://github.com/wrxck/cpp-safety/actions/workflows/ci.yml)
+
 C/C++ memory safety and security checks for Claude Code sessions.
 
 ## What it checks
